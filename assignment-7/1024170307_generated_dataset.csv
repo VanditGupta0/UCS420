@@ -1,0 +1,15 @@
+Ticket_ID,Ticket_Text
+T01,The printer was working yesterday. I don't know what changed.
+T02,I tried restarting the Matlab after the latest update. Please resolve it.
+T03,Python 3.12 was installed yesterday.
+T04,I couldn't connect to the Matlab when I use mobile hotspot. Can you check this?
+T05,The LMS says 'Not Submitted'.
+T06,It's not the laptop; it's the server.
+T07,Projector has stopped syncing since yesterday. Please resolve it.
+T08,The server is showing an error. It works on another computer.
+T09,Email me at helpdesk@university.edu.
+T10,Printer stopped responding before the assignment deadline. I don't know what changed.
+T11,Student portal failed to open since yesterday. Is there another solution?
+T12,I was locked out of the MATLAB since yesterday. It works on another computer.
+T13,I tried restarting the LMS after restarting the system. Please resolve it.
+T14,The student portal was working yesterday. I have tried several times!
