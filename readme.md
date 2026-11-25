@@ -18,7 +18,8 @@ Lab assignments for **UCS420**, written in Python as Jupyter notebooks.
 | 6 | NumPy applied: vectorised maths, aggregation, slicing and views | [assignment6.ipynb](assignment-6/assignment6.ipynb) | – |
 | 7 | NLP text preprocessing with NLTK | [Assignment7.ipynb](assignment-7/Assignment7.ipynb) | [generated_dataset.csv](assignment-7/1024170307_generated_dataset.csv) |
 | 8 | NLP: tokenisation, frequency analysis, sentiment (TextBlob, VADER) and word clouds | [assignment8.ipynb](assignment-8/assignment8.ipynb) · [Q6](assignment-8/assignment8%286th_question%29.ipynb) | [positive_wordcloud.png](assignment-8/positive_wordcloud.png) |
-| 9 | Computer vision with LandingAI predictions, Pillow and gTTS | [assignment9.ipynb](assignment-9/assignment9.ipynb) | – |
+| 9 | Computer vision with LandingAI predictions, Pillow and gTTS | [Q1](assignment-9/Assignment_9%28Q1%29.ipynb) · [Q2](assignment-9/Assignment_9%28Q2%29.ipynb) | – |
+| 10 | Heart-health chatbot: NLTK preprocessing, TF-IDF + Logistic Regression intent classification | [ASSIGNMENT10.ipynb](assignment-10/ASSIGNMENT10.ipynb) | – |
 
 > Click a notebook to open it on GitHub, or open it in [Google Colab](https://colab.research.google.com/) / Jupyter to run it.
 
@@ -26,7 +27,7 @@ Lab assignments for **UCS420**, written in Python as Jupyter notebooks.
 
 ## 🛠️ Tech Stack
 
-`Python` · `Jupyter / Colab` · `NumPy` · `Pandas` · `Matplotlib` · `NLTK` · `TextBlob` · `VADER` · `scikit-learn` · `WordCloud` · `Pillow` · `LandingAI` · `gTTS`
+`Python` · `Jupyter / Colab` · `NumPy` · `Pandas` · `Matplotlib` · `NLTK` · `TextBlob` · `VADER` · `scikit-learn` · `WordCloud` · `Pillow` · `LandingAI` · `gTTS` · `Seaborn` · `ipywidgets`
 
 ---
 
@@ -43,5 +44,6 @@ UCS420/
 ├── assignment-7/   # NLP preprocessing
 ├── assignment-8/   # NLP + sentiment analysis
 ├── assignment-9/   # Computer vision (LandingAI)
+├── assignment-10/  # Heart-health intent chatbot
 └── readme.md
 ```
